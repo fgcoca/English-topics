@@ -17,7 +17,7 @@
 
 ## **Food topics**
 
-**Number** |**Food topic** | **Image** | **Restaurant topic** | **Description**
+**Number** |**Food topic** | **Image**
 :--: |:-- | :--: 
 1 | Tasty -> delicious, appetizing, good to eat |![](https://github.com/fgcoca/English-topics/blob/master/128px/Tasty.jpg)
 2 | Nourising/nutritious -> making you strong and healthy| ![](https://github.com/fgcoca/English-topics/blob/master/128px/Salad.jpg) 
