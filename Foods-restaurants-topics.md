@@ -10,7 +10,7 @@ Starchy foods -> food that contains a lot of starch | ![](https://github.com/fgc
 Chew food -> It is good for health to chew food slowly and carefully | ![](https://github.com/fgcoca/English-topics/blob/master/128px/Thai_lunch.jpg) | T | ![]()
 Be off your food -> not want to eat | ![](https://github.com/fgcoca/English-topics/blob/master/128px/BabyRE.png) | T | ![]()
 Speciality -> a type of food that a restaurant or place is famous for | ![](https://github.com/fgcoca/English-topics/blob/master/128px/pizza.jpg) | T | ![]()
-Delicacy -> an unusual food which people in a particular place like to eat | ![](https://github.com/fgcoca/English-topics/blob/master/128px/Tiramisu.jpg) | T | ![]()
+Delicacy -> an unusual food which people in a particular place like to eat | ![]() | T | ![]()
 T | ![]() | T | ![]()
 T | ![]() | T | ![]()
 T | ![]() | T | ![]()
