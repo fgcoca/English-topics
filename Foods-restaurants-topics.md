@@ -6,8 +6,8 @@ Tasty -> delicious, appetizing, good to eat |![](https://github.com/fgcoca/Engli
 Nourising/nutritious -> making you strong and healthy| ![](https://github.com/fgcoca/English-topics/blob/master/128px/Salad.jpg) | T | ![]()
 Plain/simple -> without anything added or without decoration | ![](https://github.com/fgcoca/English-topics/blob/master/128px/Tomatoes.jpg) | T | ![]()
 Spicy -> with a hot taste | ![](https://github.com/fgcoca/English-topics/blob/master/128px/Chicken_Tikka.jpg) | T | ![]()
-T | ![]() | T | ![]()
-T | ![]() | T | ![]()
+Starchy foods -> food that contains a lot of starch | ![](https://github.com/fgcoca/English-topics/blob/master/128px/Rice.jpg) 
+Chew food -> It is good for health to chew food slowly and carefully | ![](https://github.com/fgcoca/English-topics/blob/master/128px/Thai_lunch.jpg) | T | ![]()
 T | ![]() | T | ![]()
 T | ![]() | T | ![]()
 
