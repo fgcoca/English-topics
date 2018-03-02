@@ -8,8 +8,14 @@ Plain/simple -> without anything added or without decoration | ![](https://githu
 Spicy -> with a hot taste | ![](https://github.com/fgcoca/English-topics/blob/master/128px/Chicken_Tikka.jpg) | T | ![]()
 Starchy foods -> food that contains a lot of starch | ![](https://github.com/fgcoca/English-topics/blob/master/128px/Rice.jpg) 
 Chew food -> It is good for health to chew food slowly and carefully | ![](https://github.com/fgcoca/English-topics/blob/master/128px/Thai_lunch.jpg) | T | ![]()
+Be off your food -> not want to eat | ![](https://github.com/fgcoca/English-topics/blob/master/128px/BabyRE.png) | T | ![]()
+Speciality -> a type of food that a restaurant or place is famous for | ![](https://github.com/fgcoca/English-topics/blob/master/128px/pizza.jpg) | T | ![]()
+Delicacy -> an unusual food which people in a particular place like to eat | ![](https://github.com/fgcoca/English-topics/blob/master/128px/Tiramisu.jpg) | T | ![]()
 T | ![]() | T | ![]()
 T | ![]() | T | ![]()
-
-
+T | ![]() | T | ![]()
 ![]()
+
+Licencia en pagina principal
+Referir imagenes obtenidas de wikimedia.org
+
