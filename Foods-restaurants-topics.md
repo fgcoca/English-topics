@@ -35,16 +35,21 @@
 ## **Tiramisu recipe**
 The recipe is made for twelve people. If they are not going to eat children we can add Marsala or coffee liqueur to taste.
 
-**Mise en place** |**Ingredients** |
-:--: |:-- 
-![]() | Two cups espresso, brewed and cooled
-Six hundred grams of Mascarpone
-Six eggs
-Thirty  Savoiardi Ladyfingers
-One hundred ten grams of sugar glass
-Five hundred grams of chocolate coating
-Pure unsweetened cocoa powder
-Optionally Marsala or coffee liqueur
+### **Mise en place**
+![]() 
+
+### **Ingredients** 
+
+* Two cups espresso, brewed and cooled 
+* Six hundred grams of Mascarpone
+* Six eggs
+* Thirty Savoiardi Ladyfingers
+* One hundred ten grams of sugar glass
+* Five hundred grams of chocolate coating
+* Pure unsweetened cocoa powder
+* Optionally Marsala or coffee liqueur
+
+     
 
 
 Licencia en pagina principal
