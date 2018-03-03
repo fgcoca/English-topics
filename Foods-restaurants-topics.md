@@ -36,7 +36,7 @@
 The recipe is made for twelve people. If they are not going to eat children we can add Marsala or coffee liqueur to taste.
 
 ### **Mise en place**
-![]() 
+![](https://github.com/fgcoca/English-topics/blob/master/Tiramisu-recipe/Mise%20en%20place.jpg) 
 
 ### **Ingredients** 
 
@@ -49,8 +49,27 @@ The recipe is made for twelve people. If they are not going to eat children we c
 * Pure unsweetened cocoa powder
 * Optionally Marsala or coffee liqueur
 
-     
+### **Instructions** 
+Make the espresso and set aside to let cool.
+Separate the eggs and add only the yolk to a mixing bowl. Add a hundred and five grams of sugar to the bowl and mix the eggs and sugar with the sticks until the sugar dissolves.
+Add in your mascarpone and mix until you have all the mascarpone and egg mixture combined. You want the cream to be a light yellow color but not runny. If you over mix, the cream will become runny.
+In another bowl beat the egg whites until stiff, mixing them with the rest of the sugar. To this mixture we add the mixture of mascarpone mixing with enveloping movements without beating.
+Dip your Ladyfingers, three at a time, into the espresso. You want them soft, and full of espresso, but not falling apart. Lay them into your dish, snuggled up next to each other, in row. Fill the entire pan with a layer of ladyfingers.
+Add half of the mascarpone mixture on top of the ladyfingers, smoothing it out to make an even layer. 
+On the Mascarpone mixture we spread two hundred and fifty grams of crushed chocolate.
+Repeat the ladyfinger layer, add another layer of mascarpone on top, and then add another layer of crushed chocolate.
+Once you have two layers, sprinkle cocoa powder on top. Cover in plastic wrap, and set in the fridge for at least four hours.
+If you want to use Marsala or coffee liqueur, add one shot glass to the cooled espresso.
 
+                                                                      Enjoy your meal!!!
+The final result will look like this:      
+![](https://github.com/fgcoca/English-topics/blob/master/Tiramisu-recipe/Result.jpg) 
+
+The following links give access to the recipe in odt and pdf format.
+
+![odt format](https://github.com/fgcoca/English-topics/blob/master/Tiramisu-recipe/Tiramisu-recipe.odt)
+
+![pdf format](https://github.com/fgcoca/English-topics/blob/master/Tiramisu-recipe/Tiramisu-recipe.pdf)
 
 Licencia en pagina principal
 Referir imagenes obtenidas de wikimedia.org
