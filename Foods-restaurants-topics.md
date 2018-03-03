@@ -67,9 +67,9 @@ The final result will look like this:
 
 The following links give access to the recipe in odt and pdf format.
 
-![odt format](https://github.com/fgcoca/English-topics/blob/master/Tiramisu-recipe/Tiramisu-recipe.odt)
+[odt format](https://github.com/fgcoca/English-topics/blob/master/Tiramisu-recipe/Tiramisu-recipe.odt)
 
-![pdf format](https://github.com/fgcoca/English-topics/blob/master/Tiramisu-recipe/Tiramisu-recipe.pdf)
+[pdf format](https://github.com/fgcoca/English-topics/blob/master/Tiramisu-recipe/Tiramisu-recipe.pdf)
 
 Licencia en pagina principal
 Referir imagenes obtenidas de wikimedia.org
