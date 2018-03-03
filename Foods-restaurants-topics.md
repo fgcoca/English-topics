@@ -74,7 +74,7 @@ The following links give access to the recipe in odt and pdf format.
 
 # **Author**
 
-[Federico Coca Caba] (https://github.com/fgcoca)
+[Federico Coca Caba](https://github.com/fgcoca)
 
 
 
