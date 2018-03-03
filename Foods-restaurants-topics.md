@@ -1,5 +1,7 @@
 # **Foods and restaurants topics**
 
+***A brief summary with images of restaurant types and food topics to finish with a recipe for an Italian dessert.***
+
 ## **Restaurants types**
 
 **Number** | **Restaurant type** | **Description**
