@@ -61,19 +61,20 @@ Repeat the ladyfinger layer, add another layer of mascarpone on top, and then ad
 Once you have two layers, sprinkle cocoa powder on top. Cover in plastic wrap, and set in the fridge for at least four hours.
 If you want to use Marsala or coffee liqueur, add one shot glass to the cooled espresso.
 
-                                                                                                  Enjoy your meal!!!
+                                                                                    Enjoy your meal!!!
 The final result will look like this:      
 ![](https://github.com/fgcoca/English-topics/blob/master/Tiramisu-recipe/Result.jpg) 
 
 The following links give access to the recipe in odt and pdf format.
 
-      [odt format](https://github.com/fgcoca/English-topics/blob/master/Tiramisu-recipe/Tiramisu-recipe.odt)
+   [odt format](https://github.com/fgcoca/English-topics/blob/master/Tiramisu-recipe/Tiramisu-recipe.odt)
 
-      [pdf format](https://github.com/fgcoca/English-topics/blob/master/Tiramisu-recipe/Tiramisu-recipe.pdf)
+   [pdf format](https://github.com/fgcoca/English-topics/blob/master/Tiramisu-recipe/Tiramisu-recipe.pdf)
 
-Licencia en pagina principal
-Referir imagenes obtenidas de wikimedia.org
 
+# **Author**
+
+[Federico Coca Caba] (https://github.com/fgcoca)
 
 
 
