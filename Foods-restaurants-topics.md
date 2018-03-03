@@ -32,6 +32,21 @@
 9 | A food scare -> when people are afraid to eat a particular food | ![](https://github.com/fgcoca/English-topics/blob/master/128px/worm.jpg) 
 10 | Delicacy -> an unusual food which people in a particular place like to eat | ![](https://github.com/fgcoca/English-topics/blob/master/128px/Tiramisu.jpg)
 
+## **Tiramisu recipe**
+The recipe is made for twelve people. If they are not going to eat children we can add Marsala or coffee liqueur to taste.
+
+**Mise en place** |**Ingredients** |
+:--: |:-- 
+![]() | Two cups espresso, brewed and cooled
+Six hundred grams of Mascarpone
+Six eggs
+Thirty  Savoiardi Ladyfingers
+One hundred ten grams of sugar glass
+Five hundred grams of chocolate coating
+Pure unsweetened cocoa powder
+Optionally Marsala or coffee liqueur
+
+
 Licencia en pagina principal
 Referir imagenes obtenidas de wikimedia.org
 
