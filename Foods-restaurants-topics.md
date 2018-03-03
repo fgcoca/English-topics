@@ -4,18 +4,18 @@
 
 ## **Restaurants types**
 
-**Number** | **Restaurant type** | **Description**
-:--: |:-- | :-- |
-1 | Ethnic | Ethnic restaurants specialize in ethnic or national cuisines
-2 | Fast food | Fast food restaurants emphasize speed of service. Food is ordered not from the table.
-3 | Casual dining | Fast casual restaurants are primarily chain restaurants. Fast casual restaurants usually do not offer full table service, but many offer non-disposable plates and cutlery.
-4 | Family style | Family style restaurants are a type of casual dining restaurants where food is often served on platters and the diners serve themselves. The difference between casual dining and family style is that there is no alcohol
-5 | Fine dining | Fine dining restaurants are full service restaurants with specific dedicated meal courses.
-6 | Brasserie and bistro | A brasserie is a type of French restaurant with a relaxed setting, which serves single dishes and other meals. A bistro or bistrot is a small restaurant, serving moderately priced simple meals in a modest setting.
-7 | Café | Cafés are informal restaurants offering a range of hot meals and made-to-order sandwiches. Coffee shops, while similar to cafés, are not restaurants. 
-8 | Destination restaurant | A destination restaurant is one that has a strong enough appeal to draw customers from beyond its community.
-9 | Tabletop cooking | Customers are seated as in a casual dining setting. Food items are prepared by the establishments for cooking on a cookers or charcoal grills; the customer has control over the heating power of the appliance.
-10 | Pub | Traditionally, pubs were primarily drinking establishments with food in a secondary position. A typical pub has a large selection of beers and ales on tap.
+**Number** | **Restaurant type** | **Description** | **Image**
+:--: |:-- | :-- |:--:
+1 | Ethnic | Ethnic restaurants specialize in ethnic or national cuisines |![](https://github.com/fgcoca/English-topics/blob/master/128px/Chino.jpg)
+2 | Fast food | Fast food restaurants emphasize speed of service. Food is ordered not from the table. |![](https://github.com/fgcoca/English-topics/blob/master/128px/FastFood.jpg)
+3 | Casual dining | Fast casual restaurants are primarily chain restaurants. Fast casual restaurants usually do not offer full table service, but many offer non-disposable plates and cutlery.  |![](https://github.com/fgcoca/English-topics/blob/master/128px/BigBoy.jpg)
+4 | Family style | Family style restaurants are a type of casual dining restaurants where food is often served on platters and the diners serve themselves. The difference between casual dining and family style is that there is no alcohol.  |![](https://github.com/fgcoca/English-topics/blob/master/128px/FamilyS.jpg)
+5 | Fine dining | Fine dining restaurants are full service restaurants with specific dedicated meal courses. |![](https://github.com/fgcoca/English-topics/blob/master/128px/FineD.jpg)
+6 | Brasserie and bistro | A brasserie is a type of French restaurant with a relaxed setting, which serves single dishes and other meals. A bistro or bistrot is a small restaurant, serving moderately priced simple meals in a modest setting. |![]()
+7 | Café | Cafés are informal restaurants offering a range of hot meals and made-to-order sandwiches. Coffee shops, while similar to cafés, are not restaurants. |![]()
+8 | Destination restaurant | A destination restaurant is one that has a strong enough appeal to draw customers from beyond its community. |![]()
+9 | Tabletop cooking | Customers are seated as in a casual dining setting. Food items are prepared by the establishments for cooking on a cookers or charcoal grills; the customer has control over the heating power of the appliance. |![]()
+10 | Pub | Traditionally, pubs were primarily drinking establishments with food in a secondary position. A typical pub has a large selection of beers and ales on tap. |![]()
 
 ## **Food topics**
 
