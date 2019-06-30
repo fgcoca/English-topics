@@ -1,10 +1,14 @@
 # English-topics
 My collection of topics on different topics
 
+My notes of English on the wiki
+
 # **Index**
 
 [Foods and restaurants topics](https://github.com/fgcoca/English-topics/blob/master/Foods-restaurants-topics.md)
- 
+
+
+
 # **Author**
 
 [Federico Coca Caba](https://github.com/fgcoca)
